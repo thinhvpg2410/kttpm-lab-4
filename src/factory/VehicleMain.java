@@ -9,6 +9,6 @@ public class VehicleMain {
         motorbike.drive();
 
         Vehicle bicycle = VehicleFactory.getVehicle("bicycle");
-        bicycle.drive(); 
+        bicycle.drive();
     }
 }
